@@ -1,0 +1,23 @@
+# Source code
+src/
+
+# Tests
+test/
+
+# Config files
+tsconfig.json
+.env
+.mocharc.cjs
+
+# Development files
+node_modules/
+.github/
+.git/
+.gitignore
+.npmrc
+.npmignore
+package-lock.json
+bun.lock
+
+# Keep build directory
+!dist/
