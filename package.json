@@ -1,11 +1,8 @@
 {
-  "name": "@coffee-fueled-dev/envar",
+  "name": "@very-coffee/envar",
   "description": "Type-safe environment variables manager with runtime validation, flexible transformations, and first-class TypeScript support",
   "version": "1.0.0",
   "type": "module",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/coffee-fueled-dev/envar.git"
